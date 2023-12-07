@@ -1,2 +1,2 @@
-# Hey, ich heße Henri
-Ich bin ein Webdev, lebe in Deutschland und bin relativ jung. Ich programmiere seit ich 11 Jahre alt bin.
+# Henri
+👋 Hey, my name is Henri, I'm currently 14 years old and I live in Germany. I love NextJs, framer-motion and Typescript. My free-time is filled with coding and playing chess, table tennis or Wakeboardriding. If you want to reach me, your best chances are [email](email:work@henri.gg) or with discord:
