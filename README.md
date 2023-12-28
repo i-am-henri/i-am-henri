@@ -18,6 +18,7 @@
 - [node](https://nodejs.org)
 - [svelte](https://svelte.dev)
 - [figma](https://figma.com)
+- [electron](https://electronjs.org)
 
 ---
 Learn more about me: https://henri.gg
