@@ -19,6 +19,7 @@
 - [svelte](https://svelte.dev)
 - [figma](https://figma.com)
 - [electron](https://electronjs.org)
+- typescipt
 
 ---
 Learn more about me: https://henri.gg
