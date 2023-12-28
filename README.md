@@ -17,3 +17,4 @@
 - [qwik](https://qwik.builder.io)
 - [node](https://nodejs.org)
 - [svelte](https://svelte.dev)
+- [figma](https://figma.com)
