@@ -8,3 +8,12 @@
 ### projects:
 * [workspaces.wtf](https://github.com/i-am-henri/workspaces.wtf)
 * [henri.gg](https://henri.gg)
+
+## skills:
+- [next](https://nextjs.org)
+- [react native](https://reactnative.dev)
+- [react](https://react.dev)
+- [astro](https://astro.build)
+- [qwik](https://qwik.builder.io)
+- [node](https://nodejs.org)
+- [svelte](https://svelte.dev)
