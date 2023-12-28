@@ -18,3 +18,6 @@
 - [node](https://nodejs.org)
 - [svelte](https://svelte.dev)
 - [figma](https://figma.com)
+
+---
+Learn more about me: https://henri.gg
