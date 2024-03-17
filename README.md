@@ -8,7 +8,7 @@
 ### projects:
 * [workspaces.wtf](https://github.com/i-am-henri/workspaces.wtf)
 * [cookie clicker](https://cookie.henri.gg)
-* [henri.gg](https://henri.gg)
+* [henri.gg](https://henri.gg) <br />
 ⚡ currently creating my own email service
 
 ## skills:
