@@ -9,6 +9,7 @@
 * [workspaces.wtf](https://github.com/i-am-henri/workspaces.wtf)
 * [cookie clicker](https://cookie.henri.gg)
 * [henri.gg](https://henri.gg)
+⚡ currently creating my own email service
 
 ## skills:
 - [next](https://nextjs.org)
