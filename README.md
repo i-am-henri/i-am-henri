@@ -10,7 +10,7 @@
 * [cookie clicker](https://cookie.henri.gg)
 * [henri.gg](https://henri.gg) <br />
 
-⚡ currently creating my own email service
+⚡ currently creating my own email provider and presentation service
 
 ## skills:
 - [next](https://nextjs.org)
