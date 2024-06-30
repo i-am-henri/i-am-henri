@@ -11,7 +11,7 @@
 * [contentio](https://contentio.vercel.app)
 * [henri.gg](https://henri.gg) <br />
 
-⚡ currently creating my own email provider and presentation service
+⚡ currently creating my own email provider, presentation service and online code editor 
 
 ## Skills:
 - [next](https://nextjs.org)
