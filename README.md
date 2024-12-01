@@ -2,7 +2,7 @@
 
 
 ## About Me 
-👋 Hey, my name is Henri, I'm currently 14 years old and I live in Germany. I love [next](https://nextjs.org), [framer-motion](https://framer.com/motion), [tailwind](https://tailwindcss.com), [astro](https://astro.build) and Typescript. My free-time is filled with coding and playing chess, table tennis or Wakeboardriding. If you want to reach me, your best chances are [email](mailto:work@henri.gg) or with [discord](https://discord.com/). I craft some things on the internet. (and doing this maybe to often)
+👋 Hey, my name is Henri, I'm currently 15 years old and I live in Germany. I love [next](https://nextjs.org), [framer-motion](https://framer.com/motion), [tailwind](https://tailwindcss.com), [astro](https://astro.build) and Typescript. My free-time is filled with coding and playing chess, table tennis or Wakeboardriding. If you want to reach me, your best chances are [email](mailto:work@henri.gg) or with [discord](https://discord.com/). I craft some things on the internet. (and doing this maybe to often)
 
 ---
 ### Projects:
