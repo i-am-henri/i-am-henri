@@ -9,7 +9,7 @@
 * [workspaces.wtf](https://github.com/i-am-henri/workspaces.wtf)
 * [cookie clicker](https://cookie.henri.gg)
 * [contentio](https://contentio.vercel.app)
-* [henri.gg](https://henri.gg) <br />
+* [henri.is](https://henri.is) <br />
 
 ⚡ currently creating my own email provider, presentation service and online code editor 
 
